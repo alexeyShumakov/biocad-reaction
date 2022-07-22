@@ -1,0 +1,8 @@
+resolver:
+  url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/19/16.yaml
+
+packages:
+- .
+
+extra-deps:
+  - hasbolt-extras-0.0.1.9
